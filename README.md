@@ -18,6 +18,7 @@ Talk to me about
 ## About this App
 Setup
 - Run : npm install
+- Run Mongodb : mongod
 - Start : node app.js
 
 ```⭐️ From [rohit155](https://github.com/rohit155)```
